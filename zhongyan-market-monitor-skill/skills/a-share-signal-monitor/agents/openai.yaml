@@ -1,0 +1,4 @@
+interface:
+  display_name: "A 股中衍盯盘"
+  short_description: "Build Zhongyan-only A-share signal monitors"
+  default_prompt: "Use $a-share-signal-monitor to build a Zhongyan Data only live A-share watcher using quote and 5-minute kline; get an API key from https://zyqqyj.xyz/data and set ZYQQYJ_API_KEY first."
